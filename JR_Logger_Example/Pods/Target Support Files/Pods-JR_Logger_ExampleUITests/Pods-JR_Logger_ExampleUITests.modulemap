@@ -1,0 +1,6 @@
+framework module Pods_JR_Logger_ExampleUITests {
+  umbrella header "Pods-JR_Logger_ExampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

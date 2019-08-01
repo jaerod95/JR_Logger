@@ -1,0 +1,16 @@
+PODS:
+  - JR_Logger (0.1)
+
+DEPENDENCIES:
+  - JR_Logger (from `../`)
+
+EXTERNAL SOURCES:
+  JR_Logger:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JR_Logger: c38b0eb1d2d0335ed8afa37a3d262d0038b58404
+
+PODFILE CHECKSUM: 1a22b8dfc437e52198c49b96f93f3db8891198ce
+
+COCOAPODS: 1.7.1

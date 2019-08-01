@@ -1,0 +1,24 @@
+{
+  "name": "JR_Logger",
+  "version": "0.1",
+  "summary": "Simple Runtime Logger Interface.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jaerod95/JR_Logger",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "jaerod95": "jason@frenteventures.com"
+  },
+  "source": {
+    "git": "https://github.com/jaerod95/JR_Logger.git",
+    "tag": "0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Sources/JR_Logger/**/*.{h,m,swift}",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}
