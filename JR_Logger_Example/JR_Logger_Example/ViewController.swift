@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import JR_Logger
 
 class ViewController: UIViewController {
 
